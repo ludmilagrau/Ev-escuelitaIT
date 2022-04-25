@@ -1,0 +1,54 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "user": "admin",
+      "pass": "admin",
+      "status": true
+    },
+    {
+      "id": 1,
+      "user": "admin2",
+      "pass": "admin2",
+      "status": false
+    }
+  ],
+  "products": [
+    {
+      "name": "Café",
+      "total": "2",
+      "id": 1,
+      "description": "Instantáneo marca arlistan"
+    },
+    {
+      "name": "Harina",
+      "total": "5",
+      "id": 5,
+      "description": "0000"
+    },
+    {
+      "name": "Jabón",
+      "total": "5",
+      "id": 6,
+      "description": ""
+    },
+    {
+      "name": "Caldos",
+      "total": "20",
+      "description": "Sabor verdura",
+      "id": 7
+    },
+    {
+      "name": "Fideos",
+      "total": "5",
+      "description": "Mostacholes",
+      "id": 8
+    },
+    {
+      "name": "Papel higiénico",
+      "total": "20",
+      "id": 9,
+      "description": "Doble hoja"
+    }
+  ]
+}

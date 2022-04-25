@@ -1,0 +1,43 @@
+.login{
+    background-image: url(../img/backgroundpink.jpg);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+}
+
+.card-login {
+    max-width: 320px;
+    width: 100%;
+    background: var(--color11);
+    padding: 20px;
+    border-radius: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.group {
+    text-align: center;
+}
+
+.card-login button{
+    margin-bottom: 0;
+}
+
+.form-group {
+    display: flex;
+    margin: 15px auto;
+    flex-direction: column;
+    margin-bottom: 0px;
+}
+h1 {
+    font-size: calc(1.375rem + 1.5vw);
+    font-size: 60px !important;
+    -webkit-text-stroke: 2px pink;
+    color: white;
+    letter-spacing: 2px;
+    height: 65px;
+}
